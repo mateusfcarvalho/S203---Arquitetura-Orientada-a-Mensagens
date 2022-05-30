@@ -1,0 +1,2 @@
+CRYPTO_KEY = "teste"
+str_encoded = "VDyA*XZlYKN/trUTg99dXXCNYUg==*VS6mQ/+HRX6A/hAwhVPWEg==*Firyz19g+yw14jaiQoPZUw=="
